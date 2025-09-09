@@ -1,0 +1,19 @@
+# Envs & Caches
+.venv/
+__pycache__/
+.DS_Store
+
+# Modelle/Artefakte
+export/models/*.tflite
+export/models/*.keras
+export/models/*.h5
+export/models/*.h
+export/**/*.npz
+export/mixed/
+export/features/
+
+# Audio generell ignorieren
+*.wav
+*.mp3
+
+
