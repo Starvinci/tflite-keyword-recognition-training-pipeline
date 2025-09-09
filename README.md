@@ -3,7 +3,7 @@
 Diese Pipeline wurde aufgebaut, um ein Audio‑Klassifizierungsmodell auf dem Coral Edge TPU zu betreiben.
 
 Hinweise zur Datensammlung:
-- Mindestens 70 Aufnahmen à 1 Sekunde pro Keyword.
+- Mindestens 70 Aufnahmen a 1 Sekunde pro Aufnahme.
 - Vielfältige Hintergründe (z. B. Stille, Konversationen, Haushaltsgeräusche).
 - In der Praxis waren mehrere Iterationen aus Datensammeln und Training nötig, bis das Modell zuverlässig nutzbar war.
 
